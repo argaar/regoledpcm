@@ -3,6 +3,7 @@
     "2": "orange",
     "1": "yellow",
     "curfew_all": {"enabled": true, "interval": "22-5"},
+    "comuni": {"enabled": true, "min_pop": 5000},
     "fvg": {"zone": 2, "curfew_rel": {"enabled": true, "interval": "22-5"}},
     "laz": {"zone": 2, "curfew_rel": {"enabled": true, "interval": "22-5"}},
     "lig": {"zone": 2, "curfew_rel": {"enabled": true, "interval": "22-5"}},
