@@ -19,7 +19,7 @@
     "mar": {"zone": 1, "curfew_rel":{"enabled": true, "interval": "22-5"}},
     "mol": {"zone": 1, "curfew_rel": {"enabled": true, "interval": "22-5"}},
     "pie": {"zone": 1, "curfew_rel":{"enabled": true, "interval": "22-5"}},
-    "pug": {"zone": 2, "curfew_rel": {"enabled": true, "interval": "22-5"}},
+    "pug": {"zone": 1, "curfew_rel": {"enabled": true, "interval": "22-5"}},
     "sar": {"zone": 1, "curfew_rel": {"enabled": true, "interval": "22-5"}},
     "sic": {"zone": 2, "curfew_rel": {"enabled": true, "interval": "22-5"}},
     "tos": {"zone": 1, "curfew_rel": {"enabled": true, "interval": "22-5"}},
