@@ -1,0 +1,55 @@
+{
+    "3": "red",
+    "2": "orange",
+    "1": "yellow",
+    "0": "white",
+    "comuni": true,
+    "curfew_all": {"enabled": false, "text": "Coprifuoco nazionale in vigore per il periodo: 22-5"},
+    "zones": {
+        "white": {
+            "walk": "Zona Bianca, la circolazione è libera all'interno della Regione e sono di nuovo aperte le attività commerciali, le palestre, etc. Mascherina e distanziamento rimangono OBBLIGATORI.",
+            "visit": "È possibile far visita a parenti ed amici, in ambito regionale, in numero massimo di 2 persone anche non conviventi.",
+            "curfew": "Nessun coprifuoco in atto.",
+            "comuni": {"enabled": false, "min_pop": 5000}
+        },
+        "yellow": {
+            "walk": "Zona Gialla, è possibile circolare solo all'interno della Regione. Altri spostamenti sono consentiti per motivi di necessità, sanitari o di lavoro. È possibile raggiungere le seconde case, anche fuori dalla regione, a patto che la proprietà o il contratto d'affitto siano a nome di un componente il nucleo familiare che intende spostarsi.",
+            "visit": "È possibile far visita a parenti ed amici, in ambito regionale, in numero massimo di 2 persone anche non conviventi.",
+            "curfew": "Coprifuoro regionale in vigore nel periodo: 22-5",
+            "comuni": {"enabled": false, "min_pop": 5000}
+        },
+        "orange": {
+            "walk": "Zona Arancione, è possibile circolare solo all'interno del Comune, si può uscire dal proprio Comune solo per motivi di necessità, sanitari o di lavoro. È possibile raggiungere le seconde case, anche fuori dalla regione, a patto che la proprietà o il contratto d'affitto siano a nome di un componente il nucleo familiare che intende spostarsi.",
+            "visit": "È possibile far visita a parenti ed amici, in ambito comunale, in numero massimo di 2 persone anche non conviventi.",
+            "curfew": "Coprifuoro regionale in vigore nel periodo: 22-5",
+            "comuni": {"enabled": true, "min_pop": 5000}
+        },
+        "red": {
+            "walk": "Zona Rossa, la circolazione non è consentita se non per motivi di necessità, sanitari o di lavoro. È possibile raggiungere le seconde case, anche fuori dalla regione, a patto che la proprietà o il contratto d'affitto siano a nome di un componente il nucleo familiare che intende spostarsi.",
+            "visit": "Non è possibile far visita a parenti né ad amici.",
+            "curfew": "Coprifuoro regionale in vigore nel periodo: 22-5",
+            "comuni": {"enabled": true, "min_pop": 5000}
+        }
+    },
+    "abr": 2,
+    "bas": 2,
+    "cal": 3,
+    "cam": 3,
+    "emi": 3,
+    "fvg": 3,
+    "laz": 3,
+    "lig": 2,
+    "lom": 3,
+    "mar": 3,
+    "mol": 2,
+    "pie": 3,
+    "pug": 3,
+    "sar": 2,
+    "sic": 2,
+    "tos": 3,
+    "umb": 2,
+    "vao": 3,
+    "ven": 3,
+    "tn": 3,
+    "bz": 2
+}
