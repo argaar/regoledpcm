@@ -15,19 +15,19 @@
         "yellow": {
             "walk": "Zona Gialla, è possibile circolare solo all'interno della Regione. Altri spostamenti sono consentiti per motivi di necessità, sanitari o di lavoro. È possibile raggiungere le seconde case, anche fuori dalla regione, a patto che la proprietà o il contratto d'affitto siano a nome di un componente il nucleo familiare che intende spostarsi.",
             "visit": "È possibile far visita a parenti ed amici, in ambito regionale, in numero massimo di 2 persone anche non conviventi.",
-            "curfew": "Coprifuoro regionale in vigore nel periodo: 22-5",
+            "curfew": "Coprifuoco regionale in vigore nel periodo: 22-5",
             "comuni": {"enabled": false, "min_pop": 5000}
         },
         "orange": {
             "walk": "Zona Arancione, è possibile circolare solo all'interno del Comune, si può uscire dal proprio Comune solo per motivi di necessità, sanitari o di lavoro. È possibile raggiungere le seconde case, anche fuori dalla regione, a patto che la proprietà o il contratto d'affitto siano a nome di un componente il nucleo familiare che intende spostarsi.",
             "visit": "È possibile far visita a parenti ed amici, in ambito comunale, in numero massimo di 2 persone anche non conviventi.",
-            "curfew": "Coprifuoro regionale in vigore nel periodo: 22-5",
+            "curfew": "Coprifuoco regionale in vigore nel periodo: 22-5",
             "comuni": {"enabled": true, "min_pop": 5000}
         },
         "red": {
             "walk": "Zona Rossa, la circolazione non è consentita se non per motivi di necessità, sanitari o di lavoro. È possibile raggiungere le seconde case, anche fuori dalla regione, a patto che la proprietà o il contratto d'affitto siano a nome di un componente il nucleo familiare che intende spostarsi.",
             "visit": "Non è possibile far visita a parenti né ad amici.",
-            "curfew": "Coprifuoro regionale in vigore nel periodo: 22-5",
+            "curfew": "Coprifuoco regionale in vigore nel periodo: 22-5",
             "comuni": {"enabled": true, "min_pop": 5000}
         }
     },
