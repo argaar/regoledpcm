@@ -4,11 +4,11 @@
     "1": "yellow",
     "0": "white",
     "comuni": true,
-    "curfew_all": {"enabled": true, "text": "Coprifuoco nazionale in vigore per il periodo: 23-5"},
+    "curfew_all": {"enabled": false, "text": "Coprifuoco nazionale in vigore per il periodo: 23-5"},
     "zones": {
         "white": {
             "walk": "Zona Bianca, la circolazione è libera all'interno della Regione e sono di nuovo aperte le attività commerciali, le palestre, etc. Mascherina e distanziamento rimangono OBBLIGATORI. E' possibile spostarsi liberamente solo verso altre regioni in zona Bianca o Gialla, per poter entrare in regioni in zona Arancione o Rossa si dovrà essere in possesso di Certificazione Verde (certificato vaccinale)",
-            "visit": "È possibile far visita a parenti ed amici, in ambito regionale, senza nessuna limitazione. E' possibile far visita a parenti ed amici, in area gialla, in numero massimo di 4 persone anche non conviventi.",
+            "visit": "È possibile far visita a parenti ed amici, in ambito regionale, senza nessuna limitazione. È possibile far visita a parenti ed amici, in area gialla, in numero massimo di 4 persone anche non conviventi.",
             "curfew": "Nessun coprifuoco in atto.",
             "comuni": {"enabled": false, "min_pop": 5000}
         },
