@@ -1,0 +1,55 @@
+{
+    "3": "red",
+    "2": "orange",
+    "1": "yellow",
+    "0": "white",
+    "comuni": true,
+    "curfew_all": {"enabled": false, "text": "Coprifuoco nazionale in vigore per il periodo: 00-05"},
+    "zones": {
+        "white": {
+            "walk": "Zona Bianca, la circolazione è libera all'interno della Regione e sono di nuovo aperte le attività commerciali, le palestre, etc. Mascherina e distanziamento rimangono OBBLIGATORI. E' possibile spostarsi liberamente solo verso altre regioni in zona Bianca o Gialla, per poter entrare in regioni in zona Arancione o Rossa si dovrà essere in possesso di Certificazione Verde (certificato vaccinale)",
+            "visit": "È possibile far visita a parenti ed amici, in ambito regionale, senza nessuna limitazione. È possibile far visita a parenti ed amici, in area gialla, in numero massimo di 4 persone anche non conviventi.",
+            "curfew": "Nessun coprifuoco in atto.",
+            "comuni": {"enabled": false, "min_pop": 5000}
+        },
+        "yellow": {
+            "walk": "Zona Gialla, è possibile circolare solo all'interno della Regione. E' possibile spostarsi liberamente solo verso altre regioni in zona Gialla o Bianca, per poter entrare in regioni in zona Arancione o Rossa si dovrà essere in possesso di Certificazione Verde (certificato vaccinale). Ulteriori spostamenti sono consentiti per motivi di necessità, sanitari o di lavoro. È possibile raggiungere le seconde case, anche fuori dalla regione, a patto che la proprietà o il contratto d'affitto siano a nome di un componente il nucleo familiare che intende spostarsi.",
+            "visit": "È possibile far visita a parenti ed amici, in ambito regionale, in numero massimo di 4 persone anche non conviventi.",
+            "curfew": "Coprifuoco regionale in vigore nel periodo: 00-05",
+            "comuni": {"enabled": false, "min_pop": 5000}
+        },
+        "orange": {
+            "walk": "Zona Arancione, è possibile circolare solo all'interno del Comune, si può uscire dal proprio Comune solo per motivi di necessità, sanitari o di lavoro. Se si è in possesso di Certificazione Verde (certificato vaccinale) è consentito lo spostamento anche verso altre regioni. È possibile, in ogni caso, raggiungere le seconde case anche fuori dalla regione, a patto che la proprietà o il contratto d'affitto siano a nome di un componente il nucleo familiare che intende spostarsi.",
+            "visit": "È possibile far visita a parenti ed amici, in ambito comunale, in numero massimo di 4 persone anche non conviventi.",
+            "curfew": "Coprifuoco regionale in vigore nel periodo: 00-05",
+            "comuni": {"enabled": true, "min_pop": 5000}
+        },
+        "red": {
+            "walk": "Zona Rossa, la circolazione non è consentita se non per motivi di necessità, sanitari o di lavoro. Se si è in possesso di Certificazione Verde (certificato vaccinale) è consentito lo spostamento anche verso altre regioni. È possibile, in ogni caso, raggiungere le seconde case anche fuori dalla regione, a patto che la proprietà o il contratto d'affitto siano a nome di un componente il nucleo familiare che intende spostarsi.",
+            "visit": "Non è possibile far visita a parenti né ad amici.",
+            "curfew": "Coprifuoco regionale in vigore nel periodo: 00-05",
+            "comuni": {"enabled": true, "min_pop": 5000}
+        }
+    },
+    "abr": 0,
+    "bas": 1,
+    "cal": 1,
+    "cam": 1,
+    "emi": 0,
+    "fvg": 0,
+    "laz": 0,
+    "lig": 0,
+    "lom": 0,
+    "mar": 1,
+    "mol": 0,
+    "pie": 0,
+    "pug": 0,
+    "sar": 0,
+    "sic": 1,
+    "tos": 1,
+    "umb": 0,
+    "vao": 1,
+    "ven": 0,
+    "tn": 0,
+    "bz": 1
+}
