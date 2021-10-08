@@ -1,0 +1,55 @@
+{
+    "3": "red",
+    "2": "orange",
+    "1": "yellow",
+    "0": "white",
+    "comuni": true,
+    "curfew_all": {"enabled": true, "text": "Nessun coprifuoco in atto."},
+    "zones": {
+        "white": {
+            "walk": "Zona Bianca, la circolazione è libera. È necessario essere in possesso del Green Pass (Certificato Vaccinale) per le attività al chiuso come ristoranti, palestre etc. Il distanziamento rimane OBBLIGATORIO, mentre la mascherina è facoltativa all'aperto tranne in caso di assembramento, in presenza di un immunodepresso o nell'area aperta degli ospedali. È possibile spostarsi liberamente verso le altre regioni.",
+            "visit": "È possibile far visita a parenti ed amici, in ambito regionale, senza nessuna limitazione.",
+            "curfew": "Nessun coprifuoco in atto.",
+            "comuni": {"enabled": false, "min_pop": 5000}
+        },
+        "yellow": {
+            "walk": "Zona Gialla, la circolazione è libera. La mascherina è OBBLIGATORIA anche all'aperto, nei ristoranti il numero massimo per tavolo è di 4 persone se non conviventi. È necessario essere in possesso del Green Pass (Certificato Vaccinale) per le attività al chiuso come ristoranti, palestre etc. È possibile spostarsi liberamente solo verso altre regioni.",
+            "visit": "È possibile far visita a parenti ed amici, in ambito regionale, senza nessuna limitazione.",
+            "curfew": "Nessun coprifuoco in atto.",
+            "comuni": {"enabled": false, "min_pop": 5000}
+        },
+        "orange": {
+            "walk": "Zona Arancione, è possibile circolare solo all'interno del Comune, si può uscire dal proprio Comune solo per motivi di necessità, sanitari o di lavoro. Se si è in possesso di Certificazione Verde (certificato vaccinale) è consentito lo spostamento anche verso altre regioni.",
+            "visit": "È possibile far visita a parenti ed amici, in ambito comunale, in numero massimo di 4 persone anche non conviventi.",
+            "curfew": "Nessun coprifuoco in atto.",
+            "comuni": {"enabled": true, "min_pop": 5000}
+        },
+        "red": {
+            "walk": "Zona Rossa, la circolazione non è consentita se non per motivi di necessità, sanitari o di lavoro. Se si è in possesso di Certificazione Verde (certificato vaccinale) è consentito lo spostamento anche verso altre regioni.",
+            "visit": "Non è possibile far visita a parenti né ad amici.",
+            "curfew": "Nessun coprifuoco in atto.",
+            "comuni": {"enabled": true, "min_pop": 5000}
+        }
+    },
+    "abr": 0,
+    "bas": 0,
+    "cal": 0,
+    "cam": 0,
+    "emi": 0,
+    "fvg": 0,
+    "laz": 0,
+    "lig": 0,
+    "lom": 0,
+    "mar": 0,
+    "mol": 0,
+    "pie": 0,
+    "pug": 0,
+    "sar": 0,
+    "sic": 1,
+    "tos": 0,
+    "umb": 0,
+    "vao": 0,
+    "ven": 0,
+    "tn": 0,
+    "bz": 0
+}
